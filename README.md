@@ -11,11 +11,13 @@ This repository is the official implementation of $\beta$-th order Acyclicity De
 - copy
 - random
 - time
+- torch: only for neural network score function
 
 ## Contents
 
 - betaLS.py: implementation of $\beta$-LS for least squares loss.
 - 2LSopt.py: implementation of $2$-LSopt for least squares loss.
+- 2LSopt_NN.py: implementation of $2$-LSopt for neural network score function.
 
 ## Acknowledgements
 
