@@ -8,16 +8,13 @@ This repository is the official implementation of $\beta$-th order Acyclicity De
 - scipy
 - python-igraph
 - scikit-learn
-- copy
-- random
-- time
-
+  
 ## Contents
 
-- betaLS.py: implementation of $\beta$-LS for least squares loss.
-- 2LSopt.py: implementation of $2$-LSopt for least squares loss.
+- betaLS.py: implementation of $\beta$-LS for least squares score function.
+- 2LSopt.py: implementation of $2$-LSopt for least squares score function.
 
-## Running $\beta$-LS and $2#-LSopt
+## Running $\beta$-LS and $2$-LSopt
 
 Use requirements.txt to install the dependencies. The simplest way to try out $\beta$-LS is as follows:
 ```
