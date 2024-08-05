@@ -12,6 +12,7 @@ This repository is the official implementation of $\beta$-th order Acyclicity De
 - random
 - time
 - torch: only for neural network score function
+- networkx: only for neural network score function
 
 ## Contents
 
