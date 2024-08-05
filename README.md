@@ -24,14 +24,14 @@ Use requirements.txt to install the dependencies. The simplest way to try out $\
 $ git clone https://github.com/higherorderderivatives2024/Higher-Order-Acyclicity-Derivatives-for-DAG-Learning.git
 $ cd Higher-Order-Acyclicity-Derivatives-for-DAG-Learning/
 $ pip3 install -r requirements.txt
-$ python3 beta_LS.py
+$ python3 betaLS.py
 ```
 Similarly,  the simplest way to try out $2$-LSopt is as follows:
 ```
 $ git clone https://github.com/higherorderderivatives2024/Higher-Order-Acyclicity-Derivatives-for-DAG-Learning.git
 $ cd Higher-Order-Acyclicity-Derivatives-for-DAG-Learning/
 $ pip3 install -r requirements.txt
-$ python3 2_LSopt.py
+$ python3 2LSopt.py
 ```
 
 ## Acknowledgements
