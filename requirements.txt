@@ -1,8 +1,4 @@
 numpy
 scipy
 python-igraph
-torch
 scikit-learn
-copy
-random
-time
